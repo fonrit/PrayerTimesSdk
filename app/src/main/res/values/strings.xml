@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PrayerTimesSdk</string>
+
+    <!-- notification -->
+    <string name="notifyPrayersSubTitle">Спеши на намаз! Спеши к спасению!</string>
+    <string name="notifyFajrPrayerSubTitle">Намаз лучше сна!</string>
+    <string name="imsakNotifyTitle">Начало поста</string>
+    <string name="fajrNotifyTitle">Утренний намаз</string>
+    <string name="sunriseNotifyTitle">Восход солнца</string>
+    <string name="dhuhrNotifyTitle">Полуденный намаз</string>
+    <string name="asrNotifyTitle">Предзакатный намаз</string>
+    <string name="sunsetNotifyTitle">Заход солнца</string>
+    <string name="maghribNotifyTitle">Вечерний намаз</string>
+    <string name="ishaNotifyTitle">Ночной намаз</string>
+    <string name="midnightNotifyTitle">Середина ночи</string>
+    <string name="qiyamNotifyTitle">Тахаджуд намаз</string>
+
+    <!-- time name -->
+    <string name="imsak">Имсак</string>
+    <string name="fajr">Фаджр</string>
+    <string name="sunrise">Восход</string>
+    <string name="dhuhr">Зухр</string>
+    <string name="asr">Аср</string>
+    <string name="sunset">Закат</string>
+    <string name="maghrib">Магриб</string>
+    <string name="isha">Иша</string>
+    <string name="midnight">Середина ночи</string>
+    <string name="qiyam">Тахаджуд</string>
+</resources>
